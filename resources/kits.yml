@@ -1,0 +1,35 @@
+---
+soldier:
+  Donator: false
+  Items:
+  - - 272
+    - 0
+    - 1
+  - - 260
+    - 0
+    - 3
+wool:
+  Donator: false
+  Items:
+  - - 35
+    - 0
+    - 1
+  - - 35
+    - 1
+    - 1
+  - - 35
+    - 2
+    - 1
+Donator:
+  Donator: true
+  Items:
+  - - 276
+    - 0
+    - 1
+  - - 306
+    - 0
+    - 1
+  - - 307
+    - 0
+    - 1
+...
