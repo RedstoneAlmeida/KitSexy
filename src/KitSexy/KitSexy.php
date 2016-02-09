@@ -10,6 +10,7 @@ use pocketmine\utils\Config;
 use pocketmine\event\Listener;
 use pocketmine\event\player\PlayerDeathEvent;
 use pocketmine\Server;
+
 class KitSexy extends PluginBase implements Listener {
 	
 	public function onEnable(){
